@@ -1,7 +1,7 @@
 # projeto-thymeleaf
 "É um templete usado para quem desenvolve para a web com o java."
 ## Objetivo
-* criar um cadastro e listagem de tarefas
+* criar um cadastro e listagem e edição de tarefas
 ## dependencias
 * java web
 * thymeleaf
