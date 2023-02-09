@@ -11,3 +11,6 @@
 * Java
 * Maven
 * IDE VSCode
+* BootStrap
+* CSS
+* HTML
